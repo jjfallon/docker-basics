@@ -11,7 +11,7 @@ These technologies are often mentioned as underpinning how containers work:
 * Controlling how much resource given processes can use (along the lines of *cgroups*) 
 * Isolating sets of processes (using linux namespaces) so that they can't see one another
 
-# Isolating file systems
+### Isolating file systems
 The *chroot* command can be used to make a different folder appear to a new process as being the root folder. These processes cannot see files/folders outside of this new file system, isolating it from the full file system.
 
 In pratice (on Linux) this means that the new folder needs to have a similar strucutre to / and all the binaries and libraries need for those processes
