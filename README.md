@@ -2,7 +2,7 @@
 
 ## Vaguely learning about docker
 
-Docker is often described as a light-weight virutal machine but [this stackoverflow post]{https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine} discusses the differences between virtual machines and containers. In short, virtual are hardware virtualisation, they (via a hypervisor) interacts with hardware so this it appears as though multiple operating systems are running. Containers share an operating system kernel and can be considered OS virtualisation. Sharing the same kernel means that containers can be lighter-weight than VMs but they are less isolated. It also means that if you want to run a container of one OS on top of another OS (e.g. Linux contaiers on Windows) you need a VM in order to have the right kernel. 
+Docker is often described as a light-weight virutal machine but [this stackoverflow post](https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine) discusses the differences between virtual machines and containers. In short, virtual are hardware virtualisation, they (via a hypervisor) interacts with hardware so this it appears as though multiple operating systems are running. Containers share an operating system kernel and can be considered OS virtualisation. Sharing the same kernel means that containers can be lighter-weight than VMs but they are less isolated. It also means that if you want to run a container of one OS on top of another OS (e.g. Linux contaiers on Windows) you need a VM in order to have the right kernel. 
 
 ## Under the hood
 
