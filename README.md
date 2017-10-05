@@ -20,7 +20,7 @@ This is explored on [nixCraft](https://www.cyberciti.biz/faq/unix-linux-chroot-c
 
 Usage:
 ```bash
- ./create_sandbox.sh <folder_name></code>
+ ./create_sandbox.sh <folder_name>
  ```
  And then this command would start a process in the new sandboxed file system:
  ```
