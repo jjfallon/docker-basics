@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+pandas
+seaborn
+jupyterlab
+nltk
+gensim
+imbalanced-learn
