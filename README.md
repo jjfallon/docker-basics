@@ -1,4 +1,4 @@
-# docker-learn
+# docker-basics
 
 ## Vaguely learning about docker
 
