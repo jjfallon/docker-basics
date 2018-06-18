@@ -5,5 +5,15 @@ pandas
 seaborn
 jupyterlab
 nltk
+spacy
 gensim
 imbalanced-learn
+xgboost
+pydotplus
+tqdm
+pyldavis
+pillow
+opencv-python
+requests
+lxml
+beautifulsoup4
