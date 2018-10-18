@@ -14,5 +14,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 RUN jupyter lab --generate-config
 
-CMD jupyter lab --port=8888 --ip='*' --no-browser --allow-root --NotebookApp.token='d7777'
+CMD jupyter lab --port=8888 --ip='*' --no-browser --allow-root 
 

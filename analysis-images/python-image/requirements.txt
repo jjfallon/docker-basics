@@ -7,14 +7,15 @@ jupyterlab
 nltk
 spacy
 gensim
+pyldavis
 imbalanced-learn
 xgboost
 pydotplus
 tqdm
-pyldavis
 pillow
 opencv-python
 requests
 lxml
 beautifulsoup4
 graphviz
+networkx
